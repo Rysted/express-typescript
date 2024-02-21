@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "date": "2024-02-21",
+    "weather": "sunny",
+    "visibility": "great",
+    "comment": "Beautiful day for outdoor activities."
+  },
+  {
+    "id": 2,
+    "date": "2024-02-23",
+    "weather": "rainy",
+    "visibility": "poor",
+    "comment": "Bring an umbrella and raincoat."
+  },
+  {
+    "id": 3,
+    "date": "2024-02-22",
+    "weather": "cloudy",
+    "visibility": "ok",
+    "comment": "Chance of rain in the afternoon."
+  },
+  {
+    "id": 4,
+    "date": "2024-02-27",
+    "weather": "stormy",
+    "visibility": "poor",
+    "comment": "Dangerous weather conditions, stay indoors if possible."
+  },
+  {
+    "id": 5,
+    "date": "2024-02-26",
+    "weather": "windy",
+    "visibility": "good",
+    "comment": "Strong gusts, secure loose items."
+  }
+]
