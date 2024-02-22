@@ -20,7 +20,7 @@ router.post('/', (req, res) => {
 
     const addendDiaryEntry = diaryServices.addDiary(newDiaryEntry)
 
-    res.json(addendDiaryEntry)
+    res.status(201).json(addendDiaryEntry)
   } catch (e) {
     const { message } = e as Error
     res.status(400).send(message)
